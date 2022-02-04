@@ -1,0 +1,172 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0px 20px 0px 20px;
+}
+.top-navbar ul li{
+    list-style: none;
+    display: flex ;
+    display: inline-block;
+    padding: 20px;
+
+}
+.top-navbar ul {
+    display: flex ;
+    justify-content: flex-end;
+    position: fixed;
+}
+.top-navbar{
+
+display: flex;
+justify-content: flex-end;
+}
+.top-navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+section{
+    margin-bottom: 100px;
+    /* border: 1px solid red; */
+}
+.all-sect-margin{
+    margin-left: 90px;
+    /* border: 1px solid green; */
+}
+.orage-color{
+    color: orange;
+}
+.flex-position{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+}
+.half-width h1{
+    font-size: 30px;
+    /* line-height: 15px; */
+    /* width: 60%; */
+    
+}
+.half-width img{
+    width: 100%;
+    margin-left: 100px;
+}
+.half-width p{
+    padding-bottom: 50px;
+    font-size: 18px;
+    font-weight: 500px;
+}
+.click-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 15px 10px 15px;
+    /* padding: 10px; */
+    border-radius: 10px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+/*The above-mentioned code are for first section*/
+.middle-background{
+    background-image: url(images/second\ image.png);
+}
+.second-header h1{
+    font-size: 30px;
+    margin-left: 150px;
+}
+.second-header p{
+ padding-left: 150px;
+ padding-right: 250px;
+ text-align: justify;
+ margin-bottom: 70px;
+ font-size: 18px;
+}
+.contact-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 15px 10px 15px;
+    /* padding: 10px; */
+    border-radius: 10px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-left: 150px;
+}
+.Recipe-section{
+    text-align: center;
+    /* border: 1px solid rgb(255, 167, 3); */
+    font-size: 20px;
+
+}
+.Recipe-section p{
+    text-align: justify;
+    padding-left: 350px; 
+    padding-right: 350px;
+}
+.flex-position-Recipe-section{
+    display: flex;
+    /* justify-content: center; */
+    /* border: 1px solid rgb(14, 119, 122); */
+   
+
+
+}
+.half-width2{
+    width: 30%;
+    /* border: 1px solid green; */
+    /* display: flex; */
+ margin: 0px 30px;
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* background-color: rgb(18, 214, 18); */
+    /* box-shadow: 5px 5px 10px gray; */
+}
+.half-width2 img{
+    height: 300px;
+    border-radius: 30px;
+}
+.half-width2 P{
+    /* padding-left: 40PX; */
+    text-align: justify;
+}
+.social-media{
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 0px 600px rgb(226, 223, 223);
+    /* border: 1px solid blue; */
+    border-radius: 16px;
+    margin: 100px;
+}
+.social-media-items{
+/* border: 1px solid red; */
+margin: 80px;
+
+
+}
+.social-media h1{
+    text-align: center;
+}
+.footer-background{
+    background-color: black;
+   
+
+}
+.footer-background h2{
+    color: gray;
+    text-align: center;
+}
+.footer-background h3{
+    color: #FFFFFF;
+    font-family: Montserrat;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+}
+.footer-background .footer-box{
+    padding: 30px 0px;
+}
